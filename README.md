@@ -1,6 +1,6 @@
 # 🌊 Underwater Image Turbidity Removal
 
-> 🚀 Internship Project @ DIAT (Defence Institute of Advanced Technology) | I4 Marine Technologies  
+> Internship Project @ DIAT (Defence Institute of Advanced Technology) | I4 Marine Technologies  
 > Role: Software Developer Intern  
 
 ---
@@ -15,8 +15,8 @@
     <th>After</th>
   </tr>
   <tr>
-    <td><img src="images/sample1_before.png" width="450"/></td>
-    <td><img src="images/sample1_after.png" width="450"/></td>
+    <td><img src="images/sample1_before.png" width="425"/></td>
+    <td><img src="images/sample1_after.png" width="425"/></td>
   </tr>
 </table>
 
@@ -27,8 +27,8 @@
     <th>After</th>
   </tr>
   <tr>
-    <td><img src="images/sample_raw.png" width="450"/></td>
-    <td><img src="images/sample_result.png" width="450"/></td>
+    <td><img src="images/sample_raw.png" width="425"/></td>
+    <td><img src="images/sample_result.png" width="425"/></td>
   </tr>
 </table>
 
